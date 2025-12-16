@@ -15,5 +15,5 @@ htmlcov/
 # OS
 .DS_Store
 
-# Playwright
+# Playwrigh
 playwright-report/
